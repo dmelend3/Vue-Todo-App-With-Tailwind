@@ -1,7 +1,7 @@
 <template>
   <div class="h-screen w-width bg-gray-300 flex flex-col justify-center items-center">
         <div class="header">
-            <h1 class="text-4xl">My Todo App with Tailwind and Vue</h1>
+            <h1 class="text-4xl">💯 My Todo App with Tailwind and Vue 💯</h1>
             <div class="form flex">
                 <input v-model="newTodo"
                 @keyup="checkAdd"
